@@ -1,0 +1,14 @@
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week3Switch\Week3RemainderOperator\bin\Debug\net8.0\Week3RemainderOperator.exe
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week3Switch\Week3RemainderOperator\bin\Debug\net8.0\Week3RemainderOperator.deps.json
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week3Switch\Week3RemainderOperator\bin\Debug\net8.0\Week3RemainderOperator.runtimeconfig.json
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week3Switch\Week3RemainderOperator\bin\Debug\net8.0\Week3RemainderOperator.dll
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week3Switch\Week3RemainderOperator\bin\Debug\net8.0\Week3RemainderOperator.pdb
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week3Switch\Week3RemainderOperator\obj\Debug\net8.0\Week3RemainderOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week3Switch\Week3RemainderOperator\obj\Debug\net8.0\Week3RemainderOperator.AssemblyInfoInputs.cache
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week3Switch\Week3RemainderOperator\obj\Debug\net8.0\Week3RemainderOperator.AssemblyInfo.cs
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week3Switch\Week3RemainderOperator\obj\Debug\net8.0\Week3RemainderOperator.csproj.CoreCompileInputs.cache
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week3Switch\Week3RemainderOperator\obj\Debug\net8.0\Week3RemainderOperator.dll
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week3Switch\Week3RemainderOperator\obj\Debug\net8.0\refint\Week3RemainderOperator.dll
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week3Switch\Week3RemainderOperator\obj\Debug\net8.0\Week3RemainderOperator.pdb
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week3Switch\Week3RemainderOperator\obj\Debug\net8.0\Week3RemainderOperator.genruntimeconfig.cache
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week3Switch\Week3RemainderOperator\obj\Debug\net8.0\ref\Week3RemainderOperator.dll
